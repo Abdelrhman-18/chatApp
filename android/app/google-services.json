@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319649691151",
+    "project_id": "chat-ecb2b",
+    "storage_bucket": "chat-ecb2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319649691151:android:28e8a2e9ee86965929d57a",
+        "android_client_info": {
+          "package_name": "com.example.chat_applicati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSnmKM9RT8hqUBGM5x4roGtBrhpR36AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
